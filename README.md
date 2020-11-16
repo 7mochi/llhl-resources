@@ -70,4 +70,5 @@
     - xbounce2
     - xbounce
 - Additional Locations Files
-
+- Metamod plugins
+    - WHBlocker
