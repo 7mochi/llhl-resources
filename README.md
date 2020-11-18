@@ -72,3 +72,4 @@
 - Additional Locations Files
 - Metamod plugins
     - WHBlocker
+    - GhostMineBlock
