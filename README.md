@@ -57,7 +57,7 @@
     - homeworld
     - **last_call (No .loc file)**
     - lost_vaillage
-    - **moss (No .loc file)**
+    - moss (No .loc file)
     - olvidada_muerte
     - pwrcore
     - rats
