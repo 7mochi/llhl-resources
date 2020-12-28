@@ -45,7 +45,7 @@
     - darn
     - de_railroad
     - **dm_delve (No .loc file)**
-    - **dm_dust2 (No .loc file)**
+    - dm_dust2
     - **dockingbay (No .loc file)**
     - eden
     - endcamp
@@ -55,7 +55,7 @@
     - **frenzied (No .loc file)**
     - hlcs_italy
     - homeworld
-    - **last_call (No .loc file)**
+    - last_call
     - lost_vaillage
     - moss (No .loc file)
     - olvidada_muerte
