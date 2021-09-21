@@ -70,6 +70,7 @@
     - xbounce2
     - xbounce
 - Additional Locations Files
+- Metamod v1.21p39 by Solokiller
 - Metamod plugins
     - WHBlocker
     - GhostMineBlock
