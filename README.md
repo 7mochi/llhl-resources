@@ -34,9 +34,9 @@
     - thunderstruck
 - Unofficial EHLL Maps (No CTF Maps)
     - ag_hidden_lab
-    - agony
     - ag_park
-    - **awol (No .loc file)**
+    - agony
+    - awol
     - **battlegrounds (No .loc file)**
     - cabrito
     - cold_faces
@@ -45,6 +45,7 @@
     - darn
     - de_railroad
     - **dm_delve (No .loc file)**
+    - dm_dust
     - dm_dust2
     - **dockingbay (No .loc file)**
     - eden
@@ -57,7 +58,7 @@
     - homeworld
     - last_call
     - lost_vaillage
-    - moss (No .loc file)
+    - moss
     - olvidada_muerte
     - pwrcore
     - rats
